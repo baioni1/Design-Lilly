@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2017-04-14 04:08:29
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.4
+WORDPRESS:	4.7.3
+PHP INFO:	5.6.25 | SAPI: apache2handler
+SERVER:		Apache/2.4.23 (Win32) PHP/5.6.25 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 20.25MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20170414_websitedesignforeverybusine_50d023ec2005f6799436170414040728_database.sql 
+SQL FILE SIZE: 1.06MB (1113576) 
+SQL FILE TIME: 2017-04-14 04:08:31 
+SQL RUNTIME: 2.35 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/wamp/www/test 
+ARCHIVE FILE: 20170414_websitedesignforeverybusine_50d023ec2005f6799436170414040728_archive.zip 
+FILTERS: *OFF* 
+DIRS: not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	31.3MB 
+STATS:	Dirs 209 | Files 1,913 
+SQL ADDED: 20170414_websitedesignforeverybusine_50d023ec2005f6799436170414040728_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2122
+    [filename] => C:\wamp\www\test\wp-snapshots\tmp\20170414_websitedesignforeverybusine_50d023ec2005f6799436170414040728_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 13.73MB 
+ARCHIVE RUNTIME: 70.73 sec. 
+MEMORY STACK: 21.25MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [C:/wamp/www/test/wp-snapshots/tmp/20170414_websitedesignforeverybusine_50d023ec2005f6799436170414040728_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 1.06MB 
+Installer File: 419.63KB 
+Archive File: 13.73MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 74.93 sec.
+PEAK PHP MEMORY USED: 23.5MB
+DONE PROCESSING => 20170414_websitedesignforeverybusine 2017-04-14 04:09:44
+ 
